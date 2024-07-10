@@ -3,7 +3,7 @@ const PORT = 25000;
 const beers = require("./beers");
 
 const app = express();
-console.log(beers);
+// console.log(beers);
 
 app.get("/", (request, response) => {
   response.send("this is my first route");
