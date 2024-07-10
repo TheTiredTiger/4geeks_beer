@@ -12,3 +12,7 @@ Your task is:
 3. Create a route to get beer by name
 4. Create a POST route which will accept beer object and console log it/send it back
 5. Create a DELETE route which will accept an id and respond with an object of a deleted beer
+
+
+
+(express docs) [https://expressjs.com/en/4x/api.html#res]
